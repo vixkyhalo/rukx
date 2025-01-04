@@ -16,13 +16,13 @@
 // };
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAoWWUnR08_70JDbf-M1VsGhqFxlWNk0qQ",
-  authDomain: "metabusinessappeals.firebaseapp.com",
-  projectId: "metabusinessappeals",
-  storageBucket: "metabusinessappeals.appspot.com",
-  messagingSenderId: "179078020468",
-  appId: "1:179078020468:web:3febc3fda2b041b9390021",
-  measurementId: "G-617YKDSL1W"
+  apiKey: "AIzaSyAd8J5i4_U0KCjSu-U-LJp0qZllPJK5hnE",
+  authDomain: "chessviewerpro.firebaseapp.com",
+  projectId: "chessviewerpro",
+  storageBucket: "chessviewerpro.firebasestorage.app",
+  messagingSenderId: "630366142019",
+  appId: "1:630366142019:web:5debd8737ca8af8b54def6",
+  measurementId: "G-68G3GSF8M9"
 };
 
 // Initialize Firebase
